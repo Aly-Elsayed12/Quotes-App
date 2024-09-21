@@ -1,0 +1,18 @@
+h1 {
+  font-size: 80px;
+  font-family: Impact;
+}
+.quote {
+  min-height: 200px;
+  max-width: 600px;
+  margin: 10px auto;
+}
+.quote p:nth-child(2) {
+  color: #7a0101;
+}
+
+body {
+  background-image: url(../images/thomas-heintz-0tgMnMIYQ9Y-unsplash.jpg);
+  background-size: cover;
+  background-position: center;
+}
